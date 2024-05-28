@@ -16,8 +16,7 @@ app.use('/api/admin',userRoute)
 
 
 
-const port = process.env.PORT || 5000
-
+const port = process.env.PORT 
 
 
 
